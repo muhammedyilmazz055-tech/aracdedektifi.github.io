@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aracdedektifi.github.io/sitemap.xml
